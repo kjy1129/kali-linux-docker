@@ -1,0 +1,7 @@
+image:
+  file: Dockerfile
+
+tasks:
+  - name: Start Kali Shell
+    init: echo "Welcome to Kali in Gitpod!"
+    command: bash
